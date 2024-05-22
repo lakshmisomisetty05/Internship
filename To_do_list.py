@@ -42,8 +42,8 @@ def menu():
     print("\nTo-Do List Application")
     print("1. Add Task")
     print("2. Update Task")
-    print("3. List Task")
-    print("4. Complete Task")
+    print("3. Complete Task")
+    print("4. List Task")
     print("5. Delete Task")
     print("6. Exit")
 
